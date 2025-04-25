@@ -11,7 +11,7 @@ This project is an interactive sales dashboard built in Excel using PivotTables,
 - Total Profit
 - Quantity Given
 - Regional Performance Charts
-- Monthly Treands
+- Monthly Trends
   ## Features
   -Interactive filtering with slicers (Region,Year)
   -KPI cards for key business metrics
