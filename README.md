@@ -25,7 +25,7 @@ This project is an interactive sales dashboard built in Excel using PivotTables,
   -Sheet 2: Pivot Tables
   -Sheet 3: Dashboard
   ### Preview
-  ![Dashboard Preview](dashboard-preview.png)
+  ![Dashboard Preview](dashboard-previewww.png)
   ---
   **Note:** This dashboard is suitable for business users who want quick insights from raw data using Excel's native tools.
   
